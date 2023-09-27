@@ -8,7 +8,9 @@
   },
   "keywords": [],
   "author": "Cheil",
-  
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/dcntdcheil"
+  },
   "license": "ISC",
   "devDependencies": {
     "react": "^18.2.0",
