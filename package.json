@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Cheil",
   "publishConfig": {
-    "dcntdcheil:registry": "https://npm.pkg.github.com"
+    "@dcntdcheil:registry": "https://npm.pkg.github.com"
   },
   "license": "ISC",
   "devDependencies": {
