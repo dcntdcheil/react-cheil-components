@@ -1,5 +1,5 @@
 {
-  "name": "react-cheil-components",
+  "name": "@dcntdcheil/react-cheil-components",
   "version": "1.0.1",
   "description": "Private custom controls for Cheil react apps",
   "main": "index.js",
@@ -8,9 +8,7 @@
   },
   "keywords": [],
   "author": "Cheil",
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com/dcntdcheil"
-  },
+  
   "license": "ISC",
   "devDependencies": {
     "react": "^18.2.0",
